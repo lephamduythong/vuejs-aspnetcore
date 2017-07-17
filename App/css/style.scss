@@ -1,0 +1,11 @@
+@import './animate';
+@import './foundation.min';
+
+.getIn {
+    @extend .fadeInUp;
+    animation-duration: 0.5s;
+}
+
+.getOut {
+    display: none;
+}
