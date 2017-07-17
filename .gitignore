@@ -1,3 +1,8 @@
 node_modules/
-bin/
 obj/
+
+aspnet-vue.deps.json
+aspnet-vue.dll
+aspnet-vue.pdb
+aspnet-vue.runtimeconfig.dev.json
+aspnet-vue.runtimeconfig.json
