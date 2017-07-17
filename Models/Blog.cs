@@ -11,7 +11,7 @@ namespace aspnet_vue.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=C:\\Users\\ThongLee\\Desktop\\gitTest\\vuejs-test\\Database\\test.db");
+            optionsBuilder.UseSqlite("Data Source=test.db");
         }
     }
 
